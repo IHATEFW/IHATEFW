@@ -3,7 +3,7 @@
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,25:0f0c29,50:302b63,75:24243e,100:00ff99&text=soy%20BRUNO%20MAR%C3%8DN%20ESPINOZA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Conocido%20en%20el%20mundo%20de%20la%20ciberseguridad%20como%20IHATEFW&descSize=20&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,25:0f0c29,50:302b63,75:24243e,100:00ff99&text=soy%20BRUNO%20MAR%C3%8DN%20ESPINOZA✌️ &fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Conocido%20en%20el%20mundo%20de%20la%20ciberseguridad%20como%20IHATEFW&descSize=20&descAlignY=58&descAlign=50"/>
 </p>
 
 <!-- TERMINAL -->
