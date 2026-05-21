@@ -1,6 +1,5 @@
-<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0077B5&height=220&section=header&text=IHATEFW&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Red%20Team%20%7C%20Ethical%20Hacker&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0077B5&height=260&section=header&text=IHATEFW&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Soy%20Bruno%20Mar%C3%ADn%20Espinoza,%20conocido%20en%20el%20mundo%20de%20la%20ciberseguridad%20como%20IHATEFW&descAlignY=55&descAlign=50"/>
 </p>
 
 <!-- TYPING -->
