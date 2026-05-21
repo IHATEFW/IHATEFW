@@ -11,6 +11,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=%24+whoami;Bruno+Mar%C3%ADn+Espinoza+(IHATEFW);Ingeniero+En+Ciberseguridad;CTF+Player+HackTheBox+%7C+TryHackMe+%7C+DockerLabs;Seguridad+Ofensiva"/>
 </p>
 
+🐍 CONTRIBUTION SNAKE
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
+
 ---
 
 # ☠️ SOBRE MÍ
@@ -31,3 +34,4 @@ básicos para empezar en esto, paso a paso.
 Por ende, he creado varios writeups de cómo
 resolver las máquinas más sencillas que podrás
 encontrar, y así lograr tus primeros hackeos ✨
+
