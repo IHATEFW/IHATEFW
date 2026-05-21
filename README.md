@@ -21,5 +21,6 @@
 
 🌱 Ingeniero en Ciberseguridad
 Llevo unos 6 años interesado por el hacking, resolviendo múltiples máquinas de plataformas como HackTheBox,
-TryHackMe, DockerLabs, estoy aquí para ofrecerte los conocimientos básicos para empezar en esto, paso a paso, por ende,
-he creado varios writeups de como resolver las máquinas más sencillas que podrás encontrar, y así lograr tus primeros hackeos ✨
+TryHackMe, DockerLabs, estoy aquí para ofrecerte los conocimientos básicos
+para empezar en esto, paso a paso, por ende, he creado varios writeups de como
+resolver las máquinas más sencillas que podrás encontrar, y así lograr tus primeros hackeos ✨
