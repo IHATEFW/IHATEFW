@@ -1,17 +1,21 @@
-## <h1 align="center">¡Hola! soy Bruno Marín Espinoza, conocido en el mundo de la ciberseguridad como IHATEFW <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  ¡Hola! soy Bruno Marín Espinoza, conocido en el mundo de la ciberseguridad como IHATEFW 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
+<p>
 🌱 Ingeniero en Ciberseguridad, llevo unos 6 años interesado por el hacking, resolviendo múltiples máquinas de plataformas como HackTheBox, TryHackMe, DockerLabs, estoy aquí para ofrecerte los conocimientos básicos para empezar en esto, paso a paso, por ende, he creado varios writeups de como resolver las máquinas más sencillas que podrás encontrar, y así lograr tus primeros hackeos ✨ . .
+</p>
 
 <div align="center">
 
-## ¡SÍGUEME EN LINKEDIN!
+<h2>¡SÍGUEME EN LINKEDIN!</h2>
 
 <a href="https://www.linkedin.com/in/ihatefw">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
-
 <!--
 **IHATEFW/IHATEFW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
