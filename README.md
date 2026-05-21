@@ -20,7 +20,14 @@
 └─$ whoami
 
 🌱 Ingeniero en Ciberseguridad
-Llevo unos 6 años interesado por el hacking, resolviendo múltiples máquinas de plataformas como HackTheBox,
-TryHackMe, DockerLabs. Estoy aquí para ofrecerte los conocimientos básicos
-para empezar en esto, paso a paso, por ende, he creado varios writeups de como
-resolver las máquinas más sencillas que podrás encontrar, y así lograr tus primeros hackeos . . ✨
+
+Llevo unos 6 años interesado por el hacking,
+resolviendo múltiples máquinas de plataformas
+como HackTheBox, TryHackMe y DockerLabs.
+
+Estoy aquí para ofrecerte los conocimientos
+básicos para empezar en esto, paso a paso.
+
+Por ende, he creado varios writeups de cómo
+resolver las máquinas más sencillas que podrás
+encontrar, y así lograr tus primeros hackeos ✨
