@@ -1,19 +1,25 @@
-<h1 align="center">
-  ¡Hola! soy Bruno Marín Espinoza, conocido en el mundo de la ciberseguridad como IHATEFW 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-<p>
-🌱 Ingeniero en Ciberseguridad, llevo unos 6 años interesado por el hacking, resolviendo múltiples máquinas de plataformas como HackTheBox, TryHackMe, DockerLabs, estoy aquí para ofrecerte los conocimientos básicos para empezar en esto, paso a paso, por ende, he creado varios writeups de como resolver las máquinas más sencillas que podrás encontrar, y así lograr tus primeros hackeos ✨ . .
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0077B5&height=220&section=header&text=IHATEFW&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Red%20Team%20%7C%20Ethical%20Hacker&descAlignY=58&descAlign=50"/>
 </p>
 
-<div align="center">
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Ingeniero+en+Ciberseguridad;Red+Team+Enthusiast;HackTheBox+%7C+TryHackMe+%7C+DockerLabs;Apasionado+por+el+Hacking+%F0%9F%92%BB"/>
+</p>
 
-<h2>¡SÍGUEME EN LINKEDIN!</h2>
+---
 
-<a href="https://www.linkedin.com/in/ihatefw">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+# 💀 Sobre mí
 
-</div>
+```bash
+> whoami
 
+Bruno Marín Espinoza (IHATEFW)
+
+- Ingeniero en Ciberseguridad
+- +6 años aprendiendo hacking
+- Red Team / Pentesting
+- Writeups y laboratorios prácticos
+- HackTheBox, TryHackMe y DockerLabs
+- Linux Lover 🐧
