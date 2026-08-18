@@ -23,7 +23,7 @@
 
 🌱 Ingeniero en Ciberseguridad
 
-Llevo unos 6 años interesado por el hacking,
+Llevo unos 7 años interesado por el hacking,
 resolviendo múltiples máquinas de plataformas
 como HackTheBox, TryHackMe y DockerLabs.
 
