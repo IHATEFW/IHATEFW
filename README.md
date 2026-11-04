@@ -33,4 +33,19 @@ básicos para empezar en esto, paso a paso.
 Por ende, he creado varios writeups de cómo
 resolver las máquinas más sencillas que podrás
 encontrar, y así lograr tus primeros hackeos ✨
+```
 
+# 🎖️ INSIGNIAS Y CREDENCIALES DIGITALES
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="LINK_VERIFICACION">
+        <img src="assets/badges/nombre-badge.png" width="110"/><br/>
+        <b>Emisor</b><br/>
+        <sub>Nombre del curso</sub>
+      </a>
+    </td>
+    <!-- ... 4 por fila -->
+  </tr>
+</table>
