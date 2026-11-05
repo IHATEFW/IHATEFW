@@ -114,12 +114,12 @@ encontrar, y así lograr tus primeros hackeos ✨
 <table align="center">
   <tr>
     <td align="center" valign="top" width="25%">
-      <a href="https://www.linkedin.com/in/ihatefw/details/certifications/"><img src="assets/badges/diplomados-auditoria.png" width="100" height="100" alt="Fundamentos de Auditoría a la Ciberseguridad"/></a><br/>
+      <a href="https://www.linkedin.com/in/ihatefw/details/certifications/"><img src="assets/badges/diplomados-auditoria-2025.png" width="100" height="100" alt="Fundamentos de Auditoría a la Ciberseguridad"/></a><br/>
       <b>Fundamentos de Auditoría a la Ciberseguridad</b><br/>
       <sub>Diplomados en Ciberseguridad · mar. 2025</sub>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="https://www.linkedin.com/in/ihatefw/details/certifications/"><img src="assets/badges/certiprof-awareness.png" width="100" height="100" alt="Cybersecurity Awareness Learner"/></a><br/>
+      <a href="https://www.linkedin.com/in/ihatefw/details/certifications/"><img src="assets/badges/certiprof-awareness-2025.png" width="100" height="100" alt="Cybersecurity Awareness Learner"/></a><br/>
       <b>Cybersecurity Awareness Learner</b><br/>
       <sub>CertiProf · dic. 2024</sub>
     </td>
@@ -146,7 +146,7 @@ encontrar, y así lograr tus primeros hackeos ✨
       <sub>soylider.net · may. 2024<br/><code>A3GI3I-CE000216</code></sub>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="https://www.linkedin.com/in/ihatefw/details/certifications/"><img src="assets/badges/ibm-design-thinking.png" width="100" height="100" alt="Enterprise Design Thinking Practitioner"/></a><br/>
+      <a href="https://www.linkedin.com/in/ihatefw/details/certifications/"><img src="assets/badges/ibm-design-thinking-2025.png" width="100" height="100" alt="Enterprise Design Thinking Practitioner"/></a><br/>
       <b>Enterprise Design Thinking Practitioner</b><br/>
       <sub>IBM · ago. 2021</sub>
     </td>
