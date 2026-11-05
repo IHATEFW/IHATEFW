@@ -46,7 +46,7 @@ encontrar, y así lograr tus primeros hackeos ✨
 <table align="center">
   <tr>
     <td align="center" valign="top" width="25%">
-      <a href="https://www.linkedin.com/in/ihatefw/details/certifications/"><img src="assets/badges/cisco.png" width="100" height="100" alt="Ethical Hacker"/></a><br/>
+      <a href="https://www.linkedin.com/in/ihatefw/details/certifications/"><img src="assets/badges/cisco-ethical-hacker.png" width="100" height="100" alt="Ethical Hacker"/></a><br/>
       <b>Ethical Hacker</b><br/>
       <sub>Cisco Networking Academy · feb. 2026</sub>
     </td>
@@ -129,7 +129,7 @@ encontrar, y así lograr tus primeros hackeos ✨
       <sub>SONDA · jun. 2024 – jun. 2025</sub>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="https://www.linkedin.com/in/ihatefw/details/certifications/"><img src="assets/badges/cisco.png" width="100" height="100" alt="Introduction to Cybersecurity"/></a><br/>
+      <a href="https://www.linkedin.com/in/ihatefw/details/certifications/"><img src="assets/badges/cisco-intro-cybersecurity.png" width="100" height="100" alt="Introduction to Cybersecurity"/></a><br/>
       <b>Introduction to Cybersecurity</b><br/>
       <sub>Cisco Networking Academy · dic. 2023</sub>
     </td>
